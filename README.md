@@ -14,7 +14,7 @@ In my free time, when I am not coding, I will probably be reading (I'm a Potterh
           <img height="200px" align="left" src="https://github-readme-stats.vercel.app/api?username=jeremy2918&theme=react&show_icons=true&count_private=true" />
         </td>
         <td>
-          <img height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremy2918&layout=compact&theme=react" />
+          <img height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremy2918&layout=compact&theme=react&count_private=true" />
         </td>
     </tr>   
   </table>
