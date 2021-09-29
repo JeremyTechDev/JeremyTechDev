@@ -1,12 +1,12 @@
-## Hi there, I'm Jeremy 👋
+## Hi, I'm Jeremy 👋
 
-I am a young passionate software developer who is always trying to learn something new. My main goal is to develop a piece of software that helps people solve issues that are too common on earth 🌎: from paying excessively high student 👩‍🎓👨‍🎓 loans or just making your way in the world of music 🎹. 
+Full-Stack Software Engineer curious enough to keep learning everyday. I most active on my Twitter account at [@AskJere](https://twitter.com/askjere) so feel free to go check my profile and what I do there.
 
-I am also trying (just starting) to build a community [on Twitter](https://twitter.com/AskJere). I think that a good developer is one who helps others write good code 🙌. That's is what I am trying to do by tweeting consistently.
+I recently opened my personal blogs app called [Tsseract](http://tsseract.askjere.com), go give a look at what I am writing to help the community learn from my experience.
 
-In my free time, when I am not coding, I will probably be reading (I'm a Potterhead ⚡️👦), teaching English to kids 👨‍🏫, training my body 🏋️‍♂️, or hanging out with friends 🤙. Those to know me best say that I should also try to stand up comedy , but I think I have already found my place telling the computer what to do for me.
+If you wanna know more about me, you can also check my [portfolio](https://askjere.com). I am always happy to help of simple open a conversation. You can contact me on [LinkedIn](https://www.linkedin.com/in/askjere/) or just send a DM over Twitter.
 
-### Here is my development toolkit 👨‍💻
+### Development toolkit 👨‍💻
 <center>
   <table border="0">
     <tr style="border: none">
