@@ -13,11 +13,11 @@
 </div>
 
 
-Self-taught Full-Stack Software Engineer with about 3 years or experience.
+Senior Full-Stack Software Engineer with 4 years or experience.
 
-I most active on my Twitter account at [@JeremyTechDev](https://twitter.com/JeremyTechDev) so feel free to go check my profile and what I do there.
+I most active on my Twitter account at [@JeremyMunozHub](https://twitter.com/JeremyMunozHub) so feel free to go check my profile and what I do there.
 
-If you wanna know more about me, you can also check my [portfolio](https://askjere.com). I am always happy to help of simple open a conversation. You can contact me on [LinkedIn](https://www.linkedin.com/in/askjere/) or just send a DM over Twitter.
+I am always happy to help of simple open a conversation. You can contact me on [LinkedIn]([https://www.linkedin.com/in/askjere/](https://www.linkedin.com/in/jeremytechdev/)) or just send a DM over Twitter.
 
 ### Development Toolkit 👨‍💻
 <center>
